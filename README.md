@@ -1,6 +1,6 @@
 ## Hi there 👋
  
-- 🔭 I’m currently working on Some slef projects
+- 🔭 I’m currently working on Some self projects
 - 🌱 I’m currently learning New things
 - 👯 I’m looking to collaborate on Everything especially Things related with linux
 - 🤔 I’m looking for help with nothing rn
