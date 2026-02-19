@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey there! I'm Uzair Mughal
+# Hey there! I'm Atharv Singh Negi
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;Blockchain+Enthusiast;Penetration+Tester;Web+Security+Engineer;16+y%2Fo+Linux+Nerd+%F0%9F%90%A7;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
 
@@ -8,10 +8,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-uzair.is--a.dev-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](http://uzair.is-a.dev)
-[![Email](https://img.shields.io/badge/Email-contact%40uzair.is--a.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@uzair.is-a.dev)
-[![GitHub](https://img.shields.io/github/followers/uzairdeveloper223?label=Follow&style=for-the-badge&logo=github&color=0891b2)](https://github.com/uzairdeveloper223)
-[![Twitter](https://img.shields.io/twitter/follow/mughal_x22?style=for-the-badge&logo=x&color=0891b2)](https://twitter.com/mughal_x22)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Atharv.is--a.dev-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](http://Atharv.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-contact%40Atharv.is--a.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@Atharv.is-a.dev)
+[![GitHub](https://img.shields.io/github/followers/Atharvdeveloper223?label=Follow&style=for-the-badge&logo=github&color=0891b2)](https://github.com/Atharvdeveloper223)
+[![Twitter](https://img.shields.io/twitter/follow/Singh Negi_x22?style=for-the-badge&logo=x&color=0891b2)](https://twitter.com/Singh Negi_x22)
 
 </div>
 
@@ -20,7 +20,7 @@
 ## About Me
 
 ```typescript
-const uzair = {
+const Atharv = {
     location: "AJK",
     age: 16,
     passion: "Building innovative solutions & breaking (ethical) things",
@@ -110,7 +110,7 @@ const uzair = {
 ## What I Do
 
 ```python
-class UzairMughal:
+class AtharvSingh Negi:
     def __init__(self):
         self.roles = [
             "Full-Stack Developer",
@@ -139,7 +139,7 @@ class UzairMughal:
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairdeveloper223&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0891b2&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvdeveloper223&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0891b2&text_color=c9d1d9)
 
 </div>
 
@@ -150,7 +150,7 @@ class UzairMughal:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uzairdeveloper223&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=0891b2&line=0891b2&point=c9d1d9)](https://github.com/uzairdeveloper223)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharvdeveloper223&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=0891b2&line=0891b2&point=c9d1d9)](https://github.com/Atharvdeveloper223)
 
 </div>
 
@@ -160,14 +160,14 @@ class UzairMughal:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-uzairdeveloper223-181717?style=for-the-badge&logo=github)](https://github.com/uzairdeveloper223)
-[![GitLab](https://img.shields.io/badge/GitLab-uzairdeveloper223-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/uzairdeveloper223)
-[![Twitter](https://img.shields.io/badge/Twitter-@mughal__x22-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mughal_x22)
-[![YouTube](https://img.shields.io/badge/YouTube-@mughal__x22-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@mughal_x22)
-[![Discord](https://img.shields.io/badge/Discord-mughal__x22-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mughal_x22)
+[![GitHub](https://img.shields.io/badge/GitHub-Atharvdeveloper223-181717?style=for-the-badge&logo=github)](https://github.com/Atharvdeveloper223)
+[![GitLab](https://img.shields.io/badge/GitLab-Atharvdeveloper223-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/Atharvdeveloper223)
+[![Twitter](https://img.shields.io/badge/Twitter-@Singh Negi__x22-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Singh Negi_x22)
+[![YouTube](https://img.shields.io/badge/YouTube-@Singh Negi__x22-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@Singh Negi_x22)
+[![Discord](https://img.shields.io/badge/Discord-Singh Negi__x22-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Singh Negi_x22)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-24131644-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24131644)
-[![Facebook](https://img.shields.io/badge/Facebook-mughal.x22-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/mughal.x22)
-[![Threads](https://img.shields.io/badge/Threads-@mughal__x22-000000?style=for-the-badge&logo=threads)](https://threads.net/@mughal_x22)
+[![Facebook](https://img.shields.io/badge/Facebook-Singh Negi.x22-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/Singh Negi.x22)
+[![Threads](https://img.shields.io/badge/Threads-@Singh Negi__x22-000000?style=for-the-badge&logo=threads)](https://threads.net/@Singh Negi_x22)
 
 </div>
 
@@ -177,7 +177,7 @@ class UzairMughal:
 <div align="center">
 If you like what I do, consider supporting my work with crypto!
 <br><br>
-<a href="https://donate.uzairmughal.dev/">
+<a href="https://donate.AtharvSingh Negi.dev/">
   <img src="https://img.shields.io/badge/Donate-Crypto-BB86FC?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Donate Crypto">
 </a>
 </div>
