@@ -33,7 +33,7 @@
 
 ---
 
-## about — quick & human
+## About me ( quick and human )
 
 i build systems where code meets reality: robotics that move and think, backend systems that scale, ML experiments that solve problems, and a Linux-first approach that keeps things sane. i prefer production-minded prototypes over polish for the sake of polish.
 
