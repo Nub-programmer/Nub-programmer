@@ -9,7 +9,7 @@
 
 <br/>
 
-
+<!-- social badges (copy-paste safe) -->
 <a href="https://github.com/nubprogrammer">
   <img src="https://img.shields.io/badge/GitHub-nubprogrammer-181717?style=for-the-badge&logo=github" alt="github" />
 </a>
@@ -33,18 +33,19 @@
 
 ---
 
-## About me ( quick and human )
+## About — short & human
 
-i build systems where code meets reality: robotics that move and think, backend systems that scale, ML experiments that solve problems, and a Linux-first approach that keeps things sane. i prefer production-minded prototypes over polish for the sake of polish.
+I build systems where software meets the real world: robotics that move and think, backend systems that scale, ML experiments that solve problems. I prefer production-minded prototypes over polish for the sake of polish.  
+I’ve built and deployed multiple bots (discord.js / discord.py) — some verified — and ship projects on a Linux-first workflow.
 
-repos hold the details — check `github.com/nubprogrammer`.
+Repos contain the details: `https://github.com/nubprogrammer`
 
 ---
 
-## live activity & streaks
+## Live activity & streaks
 
 <p align="center">
-  <!-- github streak (updates automatically) -->
+  <!-- github streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nubprogrammer&theme=tokyonight" alt="streak stats" />
 </p>
 
@@ -55,15 +56,15 @@ repos hold the details — check `github.com/nubprogrammer`.
 </p>
 
 <p align="center">
-  <!-- contribution activity -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nubprogrammer&theme=tokyo-night&area=true&hide_border=true" alt="activity-graph" />
+  <!-- contribution activity (use cyclic.app endpoint — more reliable) -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nubprogrammer&theme=tokyo-night&area=true&hide_border=true" alt="activity-graph" />
 </p>
 
 ---
 
-## intersecting tech — the short list
+## Intersecting tech — expanded & practical
 
-### core languages & runtime
+### Core languages & runtime
 ![C](https://img.shields.io/badge/C-004482?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
@@ -74,7 +75,7 @@ repos hold the details — check `github.com/nubprogrammer`.
 
 ---
 
-### web, frameworks & frontend
+### Web, frameworks & frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -87,7 +88,14 @@ repos hold the details — check `github.com/nubprogrammer`.
 
 ---
 
-### databases, streaming & cache
+### Bots & messaging (you asked for this)
+![discord.js](https://img.shields.io/badge/discord.js-7289DA?style=for-the-badge)
+![discord.py](https://img.shields.io/badge/discord.py-7289DA?style=for-the-badge&logo=python)
+- Built command + event driven bots, slash-command systems, role-management, moderation tooling, and verified bot deployments.
+
+---
+
+### Databases, streaming & cache
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
@@ -96,7 +104,7 @@ repos hold the details — check `github.com/nubprogrammer`.
 
 ---
 
-### ai / ml / vision
+### AI / ML / Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
@@ -105,15 +113,15 @@ repos hold the details — check `github.com/nubprogrammer`.
 
 ---
 
-### robotics & embedded (system-level)
-- embedded firmware & real-time control (RTOS patterns)  
-- perception pipelines (computer vision + sensor fusion)  
-- autonomy & state machines (ROS-aware)  
-- motion control, control loops, field testing & telemetry
+### Robotics & embedded (system-level)
+- Embedded firmware & RTOS patterns  
+- Perception pipelines (CV + sensor fusion)  
+- Autonomy stacks & state machines (ROS-aware)  
+- Motion control, control loops, field testing & telemetry
 
 ---
 
-### infra / devops / observability
+### Infra / DevOps / Observability
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx)
@@ -122,14 +130,14 @@ CI/CD • metrics • logging • lightweight SRE practices
 
 ---
 
-### cyber / sec (practicing)
-- secure-by-design development • threat modelling  
-- linux hardening • network basics & recon workflows  
-- automation for triage / scanning (scripts & tooling)
+### Cyber / Sec (practicing)
+- Secure-by-design development • threat modelling  
+- Linux hardening • network basics & recon workflows  
+- Automation for triage / scanning (scripts & tooling)
 
 ---
 
-## workflow snapshot
+## Workflow snapshot
 ```bash
 # typical loop
 ideate && prototype && test-in-field && collect-telemetry && iterate && deploy
