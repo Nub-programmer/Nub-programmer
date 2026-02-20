@@ -46,7 +46,7 @@ I’ve built and deployed multiple bots (discord.js / discord.py) — a few are 
 
 ---
 
-## Live activity & streaks (using exact username `Nub-programmer`)
+## Live activity & streaks
 
 <!-- two activity graph fallbacks — keep both, remove the broken one if needed -->
 <p align="center">
