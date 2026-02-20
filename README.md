@@ -15,6 +15,14 @@
 
 <br/>
 
+<!-- profile views + followers -->
+<img src="https://komarev.com/ghpvc/?username=Nub-programmer&color=2C5364" alt="profile-views" />
+<a href="https://github.com/Nub-programmer">
+  <img src="https://img.shields.io/github/followers/Nub-programmer?label=Followers&style=for-the-badge&logo=github" alt="followers" />
+</a>
+
+<br/>
+
 <!-- social badges -->
 <a href="https://github.com/Nub-programmer">
   <img src="https://img.shields.io/badge/GitHub-Nub--programmer-181717?style=for-the-badge&logo=github" alt="github" />
@@ -48,16 +56,14 @@ I’ve built and deployed multiple bots (discord.js / discord.py) — a few are 
 
 ## Live activity & streaks
 
-<!-- two activity graph fallbacks — keep both, remove the broken one if needed -->
 <p align="center">
-  <!-- Primary (vercel) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nub-programmer&theme=tokyo-night&area=true" alt="activity-graph (vercel)" />
-
-  <!-- Fallback (cyclic) - uncomment one if needed -->
-  <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nub-programmer&theme=tokyo-night&area=true" alt="activity-graph (cyclic)" /> -->
+  <!-- primary activity graph (vercel) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nub-programmer&theme=tokyo-night&area=true" alt="activity-graph (vercel)" onerror="this.style.display='none'" />
 </p>
 
 <p align="center">
+  <!-- fallback activity graph (cyclic) - uncomment if vercel fails -->
+  <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nub-programmer&theme=tokyo-night&area=true" alt="activity-graph (cyclic)" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nub-programmer&theme=tokyonight" alt="streak stats" />
 </p>
 
@@ -88,6 +94,7 @@ I’ve built and deployed multiple bots (discord.js / discord.py) — a few are 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
 ### Bots & messaging
 ![discord.js](https://img.shields.io/badge/discord.js-7289DA?style=for-the-badge)
@@ -100,14 +107,13 @@ Built moderation/utility/music bots, slash-command systems, role automation — 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)  <!-- you said you’re experienced here — included -->
 
 ### AI / ML / vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1178A7?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1178A7?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
 ### Infra / DevOps / Observability
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
