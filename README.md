@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- Typing title: cycles between handle and full name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=2C5364&center=true&vCenter=true&repeat=true&width=760&lines=Nub-programmer;Atharv+Singh+Negi;Systems+Builder;Robotics+%26+AI+Engineer" alt="typing-title" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=2C5364&center=true&vCenter=true&repeat=true&width=760&lines=Nub-programmer;Atharv+Singh+Negi;Systems+Builder;Robotics+%26+AI+Enthusiast!" alt="typing-title" />
 
 <br/>
 
