@@ -3,14 +3,14 @@
      Copy-paste ready (pure MD)
    ========================= -->
 
-<!-- HERO: animated capsule banner -->
+<!-- HERO banner -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=&fontSize=28" alt="hero-banner" />
 </p>
 
 <div align="center">
 
-<!-- Typing title that cycles between handle and full name -->
+<!-- Typing title: cycles between handle and full name -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=2C5364&center=true&vCenter=true&repeat=true&width=760&lines=Nub-programmer;Atharv+Singh+Negi;Systems+Builder;Robotics+%26+AI+Engineer" alt="typing-title" />
 
 <br/>
@@ -41,32 +41,34 @@
 
 ## About — human & short
 
-I build systems where software meets the real world: robots that move and think, backend systems that scale, and ML experiments that solve real problems. I prefer production-minded prototypes over polish for the sake of polish.  
+I build things that actually run outside my laptop: robots that move and think, backend systems that scale, bots that help communities, and ML experiments that solve practical problems. I prefer production-minded prototypes over polish for the sake of polish.  
 I’ve built and deployed multiple bots (discord.js / discord.py) — a few are verified — and I ship projects with a Linux-first workflow. I take part in competitions regularly and I’m always down for learning opportunities.
 
 ---
 
-## Live activity & streaks (uses exact username `Nub-programmer`)
+## Live activity & streaks (using exact username `Nub-programmer`)
 
+<!-- two activity graph fallbacks — keep both, remove the broken one if needed -->
 <p align="center">
-  <!-- activity graph (cyclic.app endpoint) -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nub-programmer&theme=tokyo-night&area=true" alt="activity-graph" />
+  <!-- Primary (vercel) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nub-programmer&theme=tokyo-night&area=true" alt="activity-graph (vercel)" />
+
+  <!-- Fallback (cyclic) - uncomment one if needed -->
+  <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nub-programmer&theme=tokyo-night&area=true" alt="activity-graph (cyclic)" /> -->
 </p>
 
 <p align="center">
-  <!-- streak card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nub-programmer&theme=tokyonight" alt="streak stats" />
 </p>
 
 <p align="center">
-  <!-- overall stats + top langs -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nub-programmer&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="github-stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nub-programmer&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
 </p>
 
 ---
 
-## Intersecting tech — short & practical
+## Intersecting tech — practical & honest
 
 ### Core & systems
 ![C](https://img.shields.io/badge/C-004482?style=for-the-badge&logo=c)
@@ -92,12 +94,13 @@ I’ve built and deployed multiple bots (discord.js / discord.py) — a few are 
 ![discord.py](https://img.shields.io/badge/discord.py-7289DA?style=for-the-badge&logo=python)  
 Built moderation/utility/music bots, slash-command systems, role automation — multiple verified bots deployed.
 
-### Databases, streaming & cache
+### Databases, realtime & serverless
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)  <!-- you said you’re experienced here — included -->
 
 ### AI / ML / vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
@@ -106,18 +109,23 @@ Built moderation/utility/music bots, slash-command systems, role automation — 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1178A7?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
 
+### Infra / DevOps / Observability
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+Vercel • Netlify • AWS • GCP • Cloudflare • CI/CD • metrics & logs
+
+### Cyber / Sec (practicing)
+- Secure-by-design dev • threat modelling  
+- Linux hardening • network basics & recon workflows  
+- Automation for triage & scanning (scripts & tooling)
+
 ### Robotics & embedded
 - RTOS patterns & firmware design  
 - Perception pipelines (CV + sensor fusion)  
 - Autonomy stacks & state machines (ROS-aware)  
-- Motion control, control loops, telemetry & field testing
-
-### Infra / DevOps
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)  
-CI/CD • metrics • logging • lightweight SRE practices
+- Motion control, control loops, field testing & telemetry
 
 ---
 
