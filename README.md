@@ -36,7 +36,7 @@
 ## About — short & human
 
 I build systems where software meets the real world: robotics that move and think, backend systems that scale, ML experiments that solve problems. I prefer production-minded prototypes over polish for the sake of polish.  
-I’ve built and deployed multiple bots (discord.js / discord.py) — some verified — and ship projects on a Linux-first workflow.
+I’ve built and deployed multiple bots (discord.js / discord.py) — some verified — and ship projects on a Linux-first workflow. And i like to participate in competitions always open for learning opportunities!
 
 Repos contain the details: `https://github.com/nubprogrammer`
 
