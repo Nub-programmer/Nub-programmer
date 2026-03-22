@@ -95,7 +95,7 @@ I’ve built and deployed multiple bots (discord.js / discord.py) — a few are 
 ![discord.py](https://img.shields.io/badge/discord.py-7289DA?style=for-the-badge&logo=python)  
 Built moderation/utility/music bots, slash-command systems, role automation — multiple verified bots deployed.
 
-### Databases, realtime & serverless
+### Databases, realtime & serverless 
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
