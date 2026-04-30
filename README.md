@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=&fontSize=28" alt="hero-banner" />
 </p>
 
-<div align="center">
+<div align="center"> 
 
 <!-- Typing title: cycles between handle and full name -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=2C5364&center=true&vCenter=true&repeat=true&width=760&lines=Nub-programmer;Atharv+Singh+Negi;System+Builder;Robotics+%26+AI+Enthusiast!;Always+looking+for+opportunities!" alt="typing-title" />
